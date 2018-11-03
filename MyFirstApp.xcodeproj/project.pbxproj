@@ -12,6 +12,8 @@
 		F3C43BB4218DA80D0071B554 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3C43BB2218DA80D0071B554 /* Main.storyboard */; };
 		F3C43BB6218DA8180071B554 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3C43BB5218DA8180071B554 /* Assets.xcassets */; };
 		F3C43BB9218DA8180071B554 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3C43BB7218DA8180071B554 /* LaunchScreen.storyboard */; };
+		F3C43BC1218DDC100071B554 /* PercentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C43BC0218DDC100071B554 /* PercentViewController.swift */; };
+		F3C43BC3218DE1AD0071B554 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C43BC2218DE1AD0071B554 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		F3C43BB5218DA8180071B554 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3C43BB8218DA8180071B554 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3C43BBA218DA8180071B554 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3C43BC0218DDC100071B554 /* PercentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentViewController.swift; sourceTree = "<group>"; };
+		F3C43BC2218DE1AD0071B554 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				F3C43BAE218DA80D0071B554 /* AppDelegate.swift */,
 				F3C43BB0218DA80D0071B554 /* ViewController.swift */,
 				F3C43BB2218DA80D0071B554 /* Main.storyboard */,
+				F3C43BC0218DDC100071B554 /* PercentViewController.swift */,
+				F3C43BC2218DE1AD0071B554 /* ResultViewController.swift */,
 				F3C43BB5218DA8180071B554 /* Assets.xcassets */,
 				F3C43BB7218DA8180071B554 /* LaunchScreen.storyboard */,
 				F3C43BBA218DA8180071B554 /* Info.plist */,
@@ -137,6 +143,8 @@
 			files = (
 				F3C43BB1218DA80D0071B554 /* ViewController.swift in Sources */,
 				F3C43BAF218DA80D0071B554 /* AppDelegate.swift in Sources */,
+				F3C43BC1218DDC100071B554 /* PercentViewController.swift in Sources */,
+				F3C43BC3218DE1AD0071B554 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
